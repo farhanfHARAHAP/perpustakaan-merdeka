@@ -7,7 +7,18 @@ SDN 1 Wangunjaya memiliki masalah dimana pencatatan perpustakaan sekolah masih d
 
 # Screenshots
 ### Tampilan Utama
+![Screenshot](screenshots/index.png)
 
-### Tampilan "Add"
+### Tampilan "Index Book"
+![Screenshot](screenshots/book.png)
 
-### Tampilan ""
+### Tampilan "Lend Book"
+![Screenshot](screenshots/lending.png)
+
+![Screenshot](screenshots/lending-form.png)
+
+### Tampilan "Add Book"
+![Screenshot](screenshots/add-book.png)
+
+### Tampilan "Member"
+![Screenshot](screenshots/member.png)
